@@ -1,0 +1,21 @@
+{
+  "folders": [
+    {
+      "path": ".."
+    }
+  ],
+  "settings": {
+    "sqltools.connections": [
+      {
+        "previewLimit": 50,
+        "server": "localhost",
+        "port": 9000,
+        "askForPassword": true,
+        "driver": "PostgreSQL",
+        "name": "practise",
+        "database": "practise",
+        "username": "postgres"
+      }
+    ]
+  }
+}
